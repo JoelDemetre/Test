@@ -1,0 +1,52 @@
+searchtype = ["All",
+"Wiki",
+"Documents",
+"ECM",
+"Training",
+"Lessons Learned",
+"Testing"]; 
+ 
+ 
+ 
+storeallarrays = new Array( 
+Wiki =  
+ ["file://filesvr/Applications/001%20Application's%20standards/ZoomSearchEngine(Engine%20Data%20Demo)/",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\CFM International",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Pratt and Whitney"], 
+ 
+
+Documents =  
+ ["\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\GE",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Backup files"], 
+ 
+
+ECM =  
+ ["\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\CFM International",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Pratt and Whitney",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\GE",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Honeywell",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Air France"], 
+ 
+
+Training =  
+ ["\\\\filesvr\\Applications\\Training\\proDAS\\Engine\\CFM56-3",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\CFM International",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Pratt and Whitney",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Rolls-Royce"], 
+ 
+
+LessonsLearned =  
+ ["\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\CFM International",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Pratt and Whitney",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\GE",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\CFM International"], 
+ 
+
+Testing =
+["\\\\docsvr\\Active Projects\\469 MISC-Design Services\\5.1 Applications",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Honeywell",
+"\\\\filesvr\\Applications\\001 Application's standards\\ZoomSearchEngine(Engine Data Demo)\\Air France"]
+
+
+
+);
